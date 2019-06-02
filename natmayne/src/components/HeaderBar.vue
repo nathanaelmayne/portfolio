@@ -1,6 +1,5 @@
 <template>
   <div class="header-bar">
-    <h1>Nathanael Mayne</h1>
   </div>
 </template>
 

@@ -1,6 +1,5 @@
 <template>
   <div class="links">
-    <h1>Links!</h1>
     <div class="links-container">
       <SVGIcon name="github"/>
       <SVGIcon name="linkedIn"/>
@@ -25,5 +24,6 @@ export default {
 }
 .links-container > * {
   flex: auto;
+  padding: 8px;
 }
 </style>
