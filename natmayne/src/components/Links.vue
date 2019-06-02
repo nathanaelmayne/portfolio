@@ -19,11 +19,7 @@ export default {
 </script>
   
 <style scoped lang="scss">
-.links-container{
-  display: flex;
-}
 .links-container > * {
-  flex: auto;
   padding: 8px;
 }
 </style>

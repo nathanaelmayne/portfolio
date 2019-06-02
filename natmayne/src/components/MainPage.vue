@@ -20,9 +20,4 @@ export default class MainPage extends Vue {}
 </script>
 
 <style scoped lang="scss">
-.main-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 </style>
