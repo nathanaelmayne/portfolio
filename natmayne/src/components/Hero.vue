@@ -8,7 +8,7 @@
         <span>{{skillList()}}</span>
         Software Engineer
         </div> based in
-      <span class="location">Hamilton New Zealand.</span>
+      <span class="location">Hamilton New Zealand</span>.
     </h1>
   </div>
 </template>
@@ -21,8 +21,8 @@ export default class Counter extends Vue {
   skills: String[] = [
     "User Interface Design",
     "Prototyping",
-    "Front-End",
-    "API Development",
+    "Front-End Web Development",
+    "Back-End Development",
     "Agile"
   ];
 
